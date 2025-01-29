@@ -1,4 +1,4 @@
-# oltp exercise
+# olap exercise
 
 ## Setup Instructions
 
