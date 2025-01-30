@@ -4,7 +4,7 @@
 
 ### Prerequisites
 
-Before setting up the database, make sure to execute the following commands on your PostgreSQL server.
+Before setting up the database, make sure to execute the following commands on your RDS Postgres Server and Redshift.
 
 #### Create User with Password
 
